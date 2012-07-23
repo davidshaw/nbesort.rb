@@ -1,4 +1,5 @@
-== nbesort.rb ==
+nbesort.rb
+==========
 
 nbesort.rb is a simple tool designed to sort Nessus findings by finding, rather
 than by IP. It is a simple *nix utility (tested on Linux, BSD, and OS X) that
